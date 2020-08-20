@@ -1,11 +1,11 @@
 {
-    "name": "codecourse/notify",
+    "name": "OverdriveSoftwares/timesnotify",
     "description": "Flexible flash notifications for Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alex Garrett",
-            "email": "alex@codecourse.com"
+            "name": "Overdrive",
+            "email": "contato@overdriveconsultoria.com.br"
         }
     ],
     "require": {
